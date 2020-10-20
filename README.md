@@ -24,6 +24,11 @@
 ---
 
 <details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  <!--START_SECTION:activity-->
+</details>
+
+<details>
   <summary>:zap: GitHub Stats</summary>
   <img align="center" alt="Shinu's GitHub Stats" src="https://github-readme-stats.the-sad-philosopher.vercel.app//api?username=the-sad-philosopher&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" />
 </details>
