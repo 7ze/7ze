@@ -1,6 +1,8 @@
 <h2> Hey there! I'm Shinu. <img src="assets/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="assets/techie.gif" width="500"/>
 
+---
+
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning ReactJs application development.
