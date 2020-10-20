@@ -26,10 +26,10 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1120](https://github.com/sass/dart-sass/issues/1120) in [sass/dart-sass](https://github.com/sass/dart-sass)
-2. 🗣 Commented on [#382](https://github.com/github/docs/issues/382) in [github/docs](https://github.com/github/docs)
+1. ❗️ Opened issue [#495](https://github.com/sass/sass-site/issues/495) in [sass/sass-site](https://github.com/sass/sass-site)
+2. ❗️ Opened issue [#1120](https://github.com/sass/dart-sass/issues/1120) in [sass/dart-sass](https://github.com/sass/dart-sass)
 3. 🗣 Commented on [#382](https://github.com/github/docs/issues/382) in [github/docs](https://github.com/github/docs)
-4. 🗣 Commented on [#21789](https://github.com/TheOdinProject/curriculum/issues/21789) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
+4. 🗣 Commented on [#382](https://github.com/github/docs/issues/382) in [github/docs](https://github.com/github/docs)
 5. 🗣 Commented on [#21789](https://github.com/TheOdinProject/curriculum/issues/21789) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
 <!--END_SECTION:activity-->
 </details>
