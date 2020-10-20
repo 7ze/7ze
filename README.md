@@ -20,6 +20,7 @@
 - 🔧 &nbsp; Visual Studio code | Postman | Git
 - 🖥 &nbsp; Figma | Inkscape | Gimp | Dribble
 
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -34,6 +35,7 @@
 
 </details>
 
+---
 
 <h3> 🤝🏻 Connect with Me </h3>
 
