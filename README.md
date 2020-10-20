@@ -21,15 +21,23 @@
 - 🖥 &nbsp; Figma | Inkscape | Gimp | Dribble
 
 
-<img align="center" alt="Shinu's GitHub Stats" src="https://github-readme-stats.the-sad-philosopher.vercel.app//api?username=the-sad-philosopher&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" />
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="center" alt="Shinu's GitHub Stats" src="https://github-readme-stats.the-sad-philosopher.vercel.app//api?username=the-sad-philosopher&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" />
+</details>
 
 
-[![Top Langs](https://github-readme-stats.the-sad-philosopher.vercel.app/api/top-langs/?username=the-sad-philosopher&layout=compact&text_color=daf7dc&bg_color=151515&hide=html)](https://github.com/the-sad-philosopher/github-readme-stats)
+<details>
+   <summary>:zap: Most used Languages </summary>
+ 
+ [![Top Langs](https://github-readme-stats.the-sad-philosopher.vercel.app/api/top-langs/?username=the-sad-philosopher&layout=compact&text_color=daf7dc&bg_color=151515&hide=html)](https://github.com/the-sad-philosopher/github-readme-stats)
+
+</details>
 
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 &nbsp; <a href="https://www.linkedin.com/in/shinudonney/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:shinudonney@tuta.io" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 
