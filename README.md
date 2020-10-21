@@ -5,12 +5,10 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning ReactJs application development.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science.
 - 💼 &nbsp; UI/UX Designer and front-end web developer.
 - 🌱 &nbsp; Chess enthusiast and admirer.
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive that a perfect cup of coffee can be the ultimate solution to any stress. 
 
 
 <h3>🛠 Tech Stack</h3>
