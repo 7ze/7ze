@@ -1,4 +1,4 @@
-<h2> Hey there <img src="assets/Hi.gif" width="25">,   I'm Shinu.</h2>
+<h2> Hey there <img src="assets/Hi.gif" width="25">,&nbsp; I'm Shinu.</h2>
 <img align="right" alt="GIF" src="assets/techie.gif" width="500"/>
 
 
