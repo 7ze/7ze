@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Shinu. <img src="assets/Hi.gif" width="25"></h2>
+<h2> Hey there <img src="assets/Hi.gif" width="25">,   I'm Shinu.</h2>
 <img align="right" alt="GIF" src="assets/techie.gif" width="500"/>
 
 
@@ -23,10 +23,9 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+<h3>:zap: Recent GitHub Activity</h3>
   
-  <!--START_SECTION:activity-->
+<!--START_SECTION:activity-->
 1. ❗️ Opened issue [#495](https://github.com/sass/sass-site/issues/495) in [sass/sass-site](https://github.com/sass/sass-site)
 2. ❗️ Opened issue [#1120](https://github.com/sass/dart-sass/issues/1120) in [sass/dart-sass](https://github.com/sass/dart-sass)
 3. 🗣 Commented on [#382](https://github.com/github/docs/issues/382) in [github/docs](https://github.com/github/docs)
@@ -34,20 +33,15 @@
 5. 🗣 Commented on [#21789](https://github.com/TheOdinProject/curriculum/issues/21789) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
 <!--END_SECTION:activity-->
 
-</details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="center" alt="Shinu's GitHub Stats" src="https://github-readme-stats.the-sad-philosopher.vercel.app//api?username=the-sad-philosopher&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" />
-</details>
+<h3>:zap: GitHub Stats</h3>
+<img align="center" alt="Shinu's GitHub Stats" src="https://github-readme-stats.the-sad-philosopher.vercel.app//api?username=the-sad-philosopher&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" />
 
 
-<details>
-   <summary>:zap: Most used Languages </summary>
+<h3>:zap: Most used Languages </h3>
  
- [![Top Langs](https://github-readme-stats.the-sad-philosopher.vercel.app/api/top-langs/?username=the-sad-philosopher&layout=compact&text_color=daf7dc&bg_color=151515&hide=html)](https://github.com/the-sad-philosopher/github-readme-stats)
+[![Top Langs](https://github-readme-stats.the-sad-philosopher.vercel.app/api/top-langs/?username=the-sad-philosopher&layout=compact&text_color=daf7dc&bg_color=151515&hide=html)](https://github.com/the-sad-philosopher/github-readme-stats)
 
-</details>
 
 ---
 
@@ -59,4 +53,4 @@
 
 </p>
 
-⭐️ From [The-sad-philosopher](https://github.com/The-sad-philosopher)
+⭐️ [The-sad-philosopher](https://github.com/The-sad-philosopher)
