@@ -48,9 +48,8 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
-&nbsp; <a href="https://www.linkedin.com/in/shinudonney/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:shinudonney@tuta.io" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-
+<a href="https://www.linkedin.com/in/shinudonney/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:shinudonney@protnmail.com?subject=Hello%20Shinu"><img src="https://img.shields.io/badge/Protonmail-%230077B5.svg?&style=for-the-badge&logo=protonmail&logoColor=white" /></a>
 </p>
 
 ⭐️ [The-sad-philosopher](https://github.com/The-sad-philosopher)
