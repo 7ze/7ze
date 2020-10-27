@@ -14,7 +14,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Typescript | Java | C++ | C
-- 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap | ReactJs
+- 🌐 &nbsp;  HTML | CSS | JavaScript | Sass | ReactJs
 - 🛢 &nbsp; MySQL | Firebase | MongoDB
 - 🔧 &nbsp; Visual Studio code | Postman | Git
 - 🖥 &nbsp; Figma | Inkscape | Gimp | Dribble
