@@ -24,11 +24,11 @@
 <h3>:zap: Recent GitHub Activity</h3>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/The-sad-philosopher/google-homepage/pull/1) in [The-sad-philosopher/google-homepage](https://github.com/The-sad-philosopher/google-homepage)
-2. 💪 Opened PR [#1](https://github.com/The-sad-philosopher/google-homepage/pull/1) in [The-sad-philosopher/google-homepage](https://github.com/The-sad-philosopher/google-homepage)
-3. ❗️ Opened issue [#495](https://github.com/sass/sass-site/issues/495) in [sass/sass-site](https://github.com/sass/sass-site)
-4. ❗️ Opened issue [#1120](https://github.com/sass/dart-sass/issues/1120) in [sass/dart-sass](https://github.com/sass/dart-sass)
-5. 🗣 Commented on [#382](https://github.com/github/docs/issues/382) in [github/docs](https://github.com/github/docs)
+1. ❗️ Opened issue [#1291](https://github.com/microsoft/TypeScript-Website/issues/1291) in [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
+2. 🎉 Merged PR [#1](https://github.com/The-sad-philosopher/google-homepage/pull/1) in [The-sad-philosopher/google-homepage](https://github.com/The-sad-philosopher/google-homepage)
+3. 💪 Opened PR [#1](https://github.com/The-sad-philosopher/google-homepage/pull/1) in [The-sad-philosopher/google-homepage](https://github.com/The-sad-philosopher/google-homepage)
+4. ❗️ Opened issue [#495](https://github.com/sass/sass-site/issues/495) in [sass/sass-site](https://github.com/sass/sass-site)
+5. ❗️ Opened issue [#1120](https://github.com/sass/dart-sass/issues/1120) in [sass/dart-sass](https://github.com/sass/dart-sass)
 <!--END_SECTION:activity-->
 
 
