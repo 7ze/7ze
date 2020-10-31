@@ -24,11 +24,11 @@
 <h3>:zap: Recent GitHub Activity</h3>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1302](https://github.com/microsoft/TypeScript-Website/pull/1302) in [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
-2. 🗣 Commented on [#1291](https://github.com/microsoft/TypeScript-Website/issues/1291) in [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
-3. ❗️ Opened issue [#1291](https://github.com/microsoft/TypeScript-Website/issues/1291) in [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
-4. 🎉 Merged PR [#1](https://github.com/The-sad-philosopher/google-homepage/pull/1) in [The-sad-philosopher/google-homepage](https://github.com/The-sad-philosopher/google-homepage)
-5. 💪 Opened PR [#1](https://github.com/The-sad-philosopher/google-homepage/pull/1) in [The-sad-philosopher/google-homepage](https://github.com/The-sad-philosopher/google-homepage)
+1. ❗️ Closed issue [#1291](https://github.com/microsoft/TypeScript-Website/issues/1291) in [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
+2. 💪 Opened PR [#1302](https://github.com/microsoft/TypeScript-Website/pull/1302) in [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
+3. 🗣 Commented on [#1291](https://github.com/microsoft/TypeScript-Website/issues/1291) in [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
+4. ❗️ Opened issue [#1291](https://github.com/microsoft/TypeScript-Website/issues/1291) in [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
+5. 🎉 Merged PR [#1](https://github.com/The-sad-philosopher/google-homepage/pull/1) in [The-sad-philosopher/google-homepage](https://github.com/The-sad-philosopher/google-homepage)
 <!--END_SECTION:activity-->
 
 
