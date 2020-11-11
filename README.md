@@ -24,11 +24,11 @@
 <h3>:zap: Recent GitHub Activity</h3>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/The-sad-philosopher/JS-30/pull/1) in [The-sad-philosopher/JS-30](https://github.com/The-sad-philosopher/JS-30)
-2. 💪 Opened PR [#1](https://github.com/The-sad-philosopher/JS-30/pull/1) in [The-sad-philosopher/JS-30](https://github.com/The-sad-philosopher/JS-30)
-3. ❗️ Closed issue [#1291](https://github.com/microsoft/TypeScript-Website/issues/1291) in [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
-4. 💪 Opened PR [#1302](https://github.com/microsoft/TypeScript-Website/pull/1302) in [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
-5. 🗣 Commented on [#1291](https://github.com/microsoft/TypeScript-Website/issues/1291) in [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
+1. ❗️ Opened issue [#2](https://github.com/The-sad-philosopher/JS-30/issues/2) in [The-sad-philosopher/JS-30](https://github.com/The-sad-philosopher/JS-30)
+2. 🎉 Merged PR [#1](https://github.com/The-sad-philosopher/JS-30/pull/1) in [The-sad-philosopher/JS-30](https://github.com/The-sad-philosopher/JS-30)
+3. 💪 Opened PR [#1](https://github.com/The-sad-philosopher/JS-30/pull/1) in [The-sad-philosopher/JS-30](https://github.com/The-sad-philosopher/JS-30)
+4. ❗️ Closed issue [#1291](https://github.com/microsoft/TypeScript-Website/issues/1291) in [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
+5. 💪 Opened PR [#1302](https://github.com/microsoft/TypeScript-Website/pull/1302) in [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
 <!--END_SECTION:activity-->
 
 
