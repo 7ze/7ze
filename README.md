@@ -24,11 +24,11 @@
 <h3>:zap: Recent GitHub Activity</h3>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/The-sad-philosopher/basic-ruby-projects/pull/1) in [The-sad-philosopher/basic-ruby-projects](https://github.com/The-sad-philosopher/basic-ruby-projects)
-2. 💪 Opened PR [#1](https://github.com/The-sad-philosopher/basic-ruby-projects/pull/1) in [The-sad-philosopher/basic-ruby-projects](https://github.com/The-sad-philosopher/basic-ruby-projects)
-3. 🎉 Merged PR [#1](https://github.com/The-sad-philosopher/Widgets/pull/1) in [The-sad-philosopher/Widgets](https://github.com/The-sad-philosopher/Widgets)
-4. 💪 Opened PR [#1](https://github.com/The-sad-philosopher/Widgets/pull/1) in [The-sad-philosopher/Widgets](https://github.com/The-sad-philosopher/Widgets)
-5. 🎉 Merged PR [#2](https://github.com/The-sad-philosopher/VideoZ/pull/2) in [The-sad-philosopher/VideoZ](https://github.com/The-sad-philosopher/VideoZ)
+1. 🎉 Merged PR [#2](https://github.com/The-sad-philosopher/basic-ruby-projects/pull/2) in [The-sad-philosopher/basic-ruby-projects](https://github.com/The-sad-philosopher/basic-ruby-projects)
+2. 💪 Opened PR [#2](https://github.com/The-sad-philosopher/basic-ruby-projects/pull/2) in [The-sad-philosopher/basic-ruby-projects](https://github.com/The-sad-philosopher/basic-ruby-projects)
+3. 🎉 Merged PR [#1](https://github.com/The-sad-philosopher/basic-ruby-projects/pull/1) in [The-sad-philosopher/basic-ruby-projects](https://github.com/The-sad-philosopher/basic-ruby-projects)
+4. 💪 Opened PR [#1](https://github.com/The-sad-philosopher/basic-ruby-projects/pull/1) in [The-sad-philosopher/basic-ruby-projects](https://github.com/The-sad-philosopher/basic-ruby-projects)
+5. 🎉 Merged PR [#1](https://github.com/The-sad-philosopher/Widgets/pull/1) in [The-sad-philosopher/Widgets](https://github.com/The-sad-philosopher/Widgets)
 <!--END_SECTION:activity-->
 
 
