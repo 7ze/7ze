@@ -25,10 +25,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#94](https://github.com/TheOdinProject/odin-bot-v2/issues/94) in [TheOdinProject/odin-bot-v2](https://github.com/TheOdinProject/odin-bot-v2)
-2. 🎉 Merged PR [#2](https://github.com/The-sad-philosopher/basic-ruby-projects/pull/2) in [The-sad-philosopher/basic-ruby-projects](https://github.com/The-sad-philosopher/basic-ruby-projects)
-3. 💪 Opened PR [#2](https://github.com/The-sad-philosopher/basic-ruby-projects/pull/2) in [The-sad-philosopher/basic-ruby-projects](https://github.com/The-sad-philosopher/basic-ruby-projects)
-4. 🎉 Merged PR [#1](https://github.com/The-sad-philosopher/basic-ruby-projects/pull/1) in [The-sad-philosopher/basic-ruby-projects](https://github.com/The-sad-philosopher/basic-ruby-projects)
-5. 💪 Opened PR [#1](https://github.com/The-sad-philosopher/basic-ruby-projects/pull/1) in [The-sad-philosopher/basic-ruby-projects](https://github.com/The-sad-philosopher/basic-ruby-projects)
+2. 💪 Opened PR [#100](https://github.com/TheOdinProject/odin-bot-v2/pull/100) in [TheOdinProject/odin-bot-v2](https://github.com/TheOdinProject/odin-bot-v2)
+3. 🗣 Commented on [#94](https://github.com/TheOdinProject/odin-bot-v2/issues/94) in [TheOdinProject/odin-bot-v2](https://github.com/TheOdinProject/odin-bot-v2)
+4. 🗣 Commented on [#94](https://github.com/TheOdinProject/odin-bot-v2/issues/94) in [TheOdinProject/odin-bot-v2](https://github.com/TheOdinProject/odin-bot-v2)
+5. 🎉 Merged PR [#2](https://github.com/The-sad-philosopher/basic-ruby-projects/pull/2) in [The-sad-philosopher/basic-ruby-projects](https://github.com/The-sad-philosopher/basic-ruby-projects)
 <!--END_SECTION:activity-->
 
 
