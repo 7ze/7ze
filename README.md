@@ -24,11 +24,11 @@
 <h3>:zap: Recent GitHub Activity</h3>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/The-sad-philosopher/basic-ruby-projects/pull/2) in [The-sad-philosopher/basic-ruby-projects](https://github.com/The-sad-philosopher/basic-ruby-projects)
-2. 💪 Opened PR [#2](https://github.com/The-sad-philosopher/basic-ruby-projects/pull/2) in [The-sad-philosopher/basic-ruby-projects](https://github.com/The-sad-philosopher/basic-ruby-projects)
-3. 🎉 Merged PR [#1](https://github.com/The-sad-philosopher/basic-ruby-projects/pull/1) in [The-sad-philosopher/basic-ruby-projects](https://github.com/The-sad-philosopher/basic-ruby-projects)
-4. 💪 Opened PR [#1](https://github.com/The-sad-philosopher/basic-ruby-projects/pull/1) in [The-sad-philosopher/basic-ruby-projects](https://github.com/The-sad-philosopher/basic-ruby-projects)
-5. 🎉 Merged PR [#1](https://github.com/The-sad-philosopher/Widgets/pull/1) in [The-sad-philosopher/Widgets](https://github.com/The-sad-philosopher/Widgets)
+1. 🗣 Commented on [#94](https://github.com/TheOdinProject/odin-bot-v2/issues/94) in [TheOdinProject/odin-bot-v2](https://github.com/TheOdinProject/odin-bot-v2)
+2. 🎉 Merged PR [#2](https://github.com/The-sad-philosopher/basic-ruby-projects/pull/2) in [The-sad-philosopher/basic-ruby-projects](https://github.com/The-sad-philosopher/basic-ruby-projects)
+3. 💪 Opened PR [#2](https://github.com/The-sad-philosopher/basic-ruby-projects/pull/2) in [The-sad-philosopher/basic-ruby-projects](https://github.com/The-sad-philosopher/basic-ruby-projects)
+4. 🎉 Merged PR [#1](https://github.com/The-sad-philosopher/basic-ruby-projects/pull/1) in [The-sad-philosopher/basic-ruby-projects](https://github.com/The-sad-philosopher/basic-ruby-projects)
+5. 💪 Opened PR [#1](https://github.com/The-sad-philosopher/basic-ruby-projects/pull/1) in [The-sad-philosopher/basic-ruby-projects](https://github.com/The-sad-philosopher/basic-ruby-projects)
 <!--END_SECTION:activity-->
 
 
