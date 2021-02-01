@@ -24,11 +24,11 @@
 <h3>:zap: Recent GitHub Activity</h3>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#816](https://github.com/EddieJaoudeCommunity/support/issues/816) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#94](https://github.com/TheOdinProject/odin-bot-v2/issues/94) in [TheOdinProject/odin-bot-v2](https://github.com/TheOdinProject/odin-bot-v2)
-3. 💪 Opened PR [#100](https://github.com/TheOdinProject/odin-bot-v2/pull/100) in [TheOdinProject/odin-bot-v2](https://github.com/TheOdinProject/odin-bot-v2)
+1. 🎉 Merged PR [#1](https://github.com/The-sad-philosopher/portfolio/pull/1) in [The-sad-philosopher/portfolio](https://github.com/The-sad-philosopher/portfolio)
+2. 💪 Opened PR [#1](https://github.com/The-sad-philosopher/portfolio/pull/1) in [The-sad-philosopher/portfolio](https://github.com/The-sad-philosopher/portfolio)
+3. ❗️ Opened issue [#816](https://github.com/EddieJaoudeCommunity/support/issues/816) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 4. 🗣 Commented on [#94](https://github.com/TheOdinProject/odin-bot-v2/issues/94) in [TheOdinProject/odin-bot-v2](https://github.com/TheOdinProject/odin-bot-v2)
-5. 🗣 Commented on [#94](https://github.com/TheOdinProject/odin-bot-v2/issues/94) in [TheOdinProject/odin-bot-v2](https://github.com/TheOdinProject/odin-bot-v2)
+5. 💪 Opened PR [#100](https://github.com/TheOdinProject/odin-bot-v2/pull/100) in [TheOdinProject/odin-bot-v2](https://github.com/TheOdinProject/odin-bot-v2)
 <!--END_SECTION:activity-->
 
 
